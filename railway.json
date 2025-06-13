@@ -1,8 +1,6 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "deploy": {
-     "drainingSeconds": 0,
-     "overlapSeconds": 3,
      "restartPolicyMaxRetries": 5
   }
 }
