@@ -1,8 +1,5 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "deploy": {
-    "limitOverride": {
-       "containers": { "cpu": 64 }
-    }
   }
 }
