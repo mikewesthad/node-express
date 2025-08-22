@@ -1,5 +1,8 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "deploy": {
+    "limits": {
+       "cpu": 2
+    }
   }
 }
